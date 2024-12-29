@@ -1,0 +1,5 @@
+name: UniqueItemExpandsChunk
+version: '1.0-SNAPSHOT'
+main: me.taylan.UniqueItemExpandsChunk
+api-version: '1.21'
+authors: [ taylan ]
